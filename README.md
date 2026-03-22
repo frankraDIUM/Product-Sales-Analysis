@@ -95,7 +95,7 @@ This project analyzes a product sales dataset of 15,000 records to uncover patte
 
 ## 3. Business Metric
 
-### 📌 Average Revenue per Product
+### Average Revenue per Product
 
 ```
 Average Revenue per Product = Total Revenue / Total Products Sold
