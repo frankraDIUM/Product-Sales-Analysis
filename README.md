@@ -4,7 +4,21 @@ This project analyzes a product sales dataset of 15,000 records to uncover patte
 <p align="center">
   <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/Relatonship%20between%20revenue%20and%20sold.png"
 </p>
-  
+
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/customer_engagement.png" width="45%" />
+  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/customer_behaviour.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/revenue_change.png" width="45%" />
+  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/revenue_trend.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/average_metrics.png" width="45%" />
+  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/customer_retention.png" width="45%" />
+</p>
 
 ## 1. Data Validation & Cleaning
 
@@ -78,20 +92,6 @@ This project analyzes a product sales dataset of 15,000 records to uncover patte
   * Some variability → possible pricing/discount differences
 
 ---
-<p align="center">
-  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/customer_engagement.png" width="45%" />
-  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/customer_behaviour.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/revenue_change.png" width="45%" />
-  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/revenue_trend.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/average_metrics.png" width="45%" />
-  <img src="https://github.com/frankraDIUM/Product-Sales-Analysis/blob/main/customer_retention.png" width="45%" />
-</p>
 
 ## 3. Business Metric
 
